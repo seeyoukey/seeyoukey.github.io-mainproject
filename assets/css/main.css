@@ -2386,14 +2386,14 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #1a242f;
+				background-color: #2c3e50;
 			}
 
 			input[type="submit"].special:active,
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #2c3e50;
+				background-color: #5c6d7e;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
