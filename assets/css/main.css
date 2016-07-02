@@ -2393,7 +2393,7 @@
 			input[type="reset"].special:active,
 			input[type="button"].special:active,
 			.button.special:active {
-				background-color: #5c6d7e;
+				background-color: #707f8e;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
@@ -2512,7 +2512,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #d6dac2;
+					color: #707f8e;
 				}
 
 		#header > nav ul {
